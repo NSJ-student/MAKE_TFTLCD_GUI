@@ -13,7 +13,7 @@
 3. 2에서 그려진 object 정보는 draw info의 object info 그룹에 표시됨
 4. ctrl을 누르지 않은 상태에서 main panel의 object를 선택하거나 드래그하여 이동 가능 (크기 조절은 불가능)
 5. Make Source 그룹에서 이름을 입력하고 Make 버튼을 누르면 main panel의 그림을 그릴수있는 펌웨어 소스가 생성됨
-6. image로 사용되는 binary 파일은 ImageToArray(https://github.com/NSJ-student/ImageToArray)에서 변환한 파일을 사용
+6. image로 사용되는 binary 파일은 ImageToArray( https://github.com/NSJ-student/ImageToArray )에서 변환한 파일을 사용
 
 # UI
 
