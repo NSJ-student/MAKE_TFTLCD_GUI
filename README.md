@@ -14,6 +14,7 @@
 4. ctrl을 누르지 않은 상태에서 main panel의 object를 선택하거나 드래그하여 이동 가능 (크기 조절은 불가능)
 5. Make Source 그룹에서 이름을 입력하고 Make 버튼을 누르면 main panel의 그림을 그릴수있는 펌웨어 소스가 생성됨
 6. image로 사용되는 binary 파일은 ImageToArray( https://github.com/NSJ-student/ImageToArray )에서 변환한 파일을 사용
+    (다만 원본 이미지의 크기에 맞추어 변환되므로 이미지 크기를 원하는 크기로 먼저 바꾼 후 bin으로 변환)
 
 # UI
 
